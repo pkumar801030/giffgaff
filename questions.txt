@@ -1,0 +1,6 @@
+What is H20?,cocaine,milk,water,coffee,3
+Can this Java-program be written better?,no,yes,maybe,i don't know,2
+Who teaches Java at teamtreehouse?,craig,susan,rishi,jane,4
+Which Countries share a border with Switzerland?,france,begium,spain,bulgaria,4
+Who sing this the song 'Locked Away':?,R. City & Adam Levine's, Justin Bieber,Selena Gomez,Katy Perry,1
+Who sing this the song 'Beauty and the beast'?,City & Adam Levine's,Justin Bieber,Selena Gomez,Katy Perry,2
